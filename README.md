@@ -15,9 +15,9 @@
         ~~~
 5. Create `test.py` file with sample print statements.
 6. Execute python file using below command.
-        ~~~
-        python test.py
-        ~~~
+    ~~~
+    python test.py
+    ~~~
 7. Deactivate virtual environment using the below command
     - Deactivate venv
         ~~~
