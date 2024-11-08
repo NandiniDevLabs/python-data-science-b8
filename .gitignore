@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 tmp*
-02-pandas/*
 
 # C extensions
 *.so
