@@ -4,8 +4,7 @@ __pycache__/
 *$py.class
 
 tmp*
-03-matplotlib/*
-04-seaborn/*
+
 
 # C extensions
 *.so
