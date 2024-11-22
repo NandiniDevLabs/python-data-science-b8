@@ -1,0 +1,23 @@
+
+Machine Learning 
+Supervised -- Regression (Continuous) and Classification (discrete or categories)
+Unsupervised -- 
+
+Linear Regression --> OLS  or Gradient Descent
+Simple Linear Regression
+Multiple Linear Regression
+
+Polynomial Regression
+Bias-Variance Trade Off  -- Underfitting and Overfitting
+
+
+Feature Scaling
+Cross-Validation
+
+
+Regularization - L1 and L2
+Ridge (L2) Regression
+Lasso (L1) Regression
+Elastic Net Regression
+
+

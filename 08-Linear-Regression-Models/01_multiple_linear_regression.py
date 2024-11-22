@@ -33,15 +33,18 @@ MAE = mean_absolute_error(y_test,test_predictions)
 MSE = mean_squared_error(y_test,test_predictions)
 RMSE = np.sqrt(MSE)
 
-# Intercept Model 
+# Intercept Model -- Explainability of the ML model
 print(model.coef_)
 print(model.feature_names_in_)
-print(model.intercept_)
+print(model.intercept_)  # b0
 
+# Emperical Formula to interpret the model
+# y = b0 + b1*x1 + b2*x2 + b3*x3
+# sales = 3.151526768070651 + 0.04469599*tv + 0.1875657*radio - 0.00032275*newspaper
 
 # Train the model on Full Data
 model.fit(X,y)
-
+y_new_predict = model.predict(X_new)
 
 # Save the model
 dump(final_model, 'sales_model.joblib') 
