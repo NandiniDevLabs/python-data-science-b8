@@ -6,7 +6,7 @@ __pycache__/
 tmp*
 data/*
 # 09-Feature-Engineering/*
-08-Linear-Regression-Models/*
+# 08-Linear-Regression-Models/*
 
 # C extensions
 *.so
