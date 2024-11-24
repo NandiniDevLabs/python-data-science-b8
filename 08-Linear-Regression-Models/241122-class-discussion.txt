@@ -8,16 +8,20 @@ Simple Linear Regression
 Multiple Linear Regression
 
 Polynomial Regression
+Feature Scaling -- 
+
 Bias-Variance Trade Off  -- Underfitting and Overfitting
 
+Cross-Validation --> Train, Validation and Test  Set --> 3 data sets
 
-Feature Scaling
-Cross-Validation
-
-
-Regularization - L1 and L2
+Regularization - L1 and L2, and Elastic Net 
 Ridge (L2) Regression
 Lasso (L1) Regression
-Elastic Net Regression
+Elastic Net Regression --> L1 + L2
+
+
+
+
+
 
 

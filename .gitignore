@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 tmp*
-data/*
+# data/*
 # 09-Feature-Engineering/*
 # 08-Linear-Regression-Models/*
 
