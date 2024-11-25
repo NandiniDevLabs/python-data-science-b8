@@ -8,6 +8,9 @@ tmp*
 # 09-Feature-Engineering/*
 # 08-Linear-Regression-Models/*
 
+11-Logistic-Regression-Models/*
+12-K-Nearest-Neighbors/*
+
 # C extensions
 *.so
 
