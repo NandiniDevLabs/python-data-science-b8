@@ -22,7 +22,11 @@ Elastic Net Regression --> L1 + L2
 
 
 
-Classification -- Yes, No
+Classification -- Logistic Regression, KNN
+SVM
+Tree Based -- 
+
+Unsupervised -- 
 
 
 
