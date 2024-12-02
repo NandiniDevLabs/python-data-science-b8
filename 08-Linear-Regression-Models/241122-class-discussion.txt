@@ -22,11 +22,14 @@ Elastic Net Regression --> L1 + L2
 
 
 
-Classification -- Logistic Regression, KNN
-SVM
-Tree Based -- 
+Classification --  KNN, SVM
+Tree Based -- Decision Tree, Random Forest, Bagging and Boosting
 
-Unsupervised -- 
+Unsupervised -- Clustering (KMeans, Density, ), Anomaly Detection, PCA
+
+
+
+
 
 
 
