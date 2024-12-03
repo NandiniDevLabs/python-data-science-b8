@@ -23,12 +23,28 @@ Elastic Net Regression --> L1 + L2
 
 
 Classification --  KNN, SVM
-Tree Based -- Decision Tree, Random Forest, Bagging and Boosting
+Tree Based -- Decision Tree, 
+Random Forest, Bagging and Boosting
 
 Unsupervised -- Clustering (KMeans, Density, ), Anomaly Detection, PCA
 
 
 
+SVM --> 
+
+SVC - 
+Hyperplane --> Point, Line, Plane, Hyperplane
+Maximum Margin --> 
+Support Vectors --> Soft margin --> Allow mis-classification --> C (Regularization parameter) --> To avoid Overfitting
+Kernels --> Polynomial or RBF
+
+
+SVR -
+Hyperplane -->  Point, Line, Plane, Hyperplane
+Margin of tolernace --> Epsilon 
+Support Vectors --> C (Regularization parameter) --> To avoid Overfitting
+Loss function --> 
+Epsilon Insensitive Tube 
 
 
 
