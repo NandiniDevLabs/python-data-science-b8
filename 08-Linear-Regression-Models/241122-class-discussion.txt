@@ -26,7 +26,7 @@ Classification --  KNN, SVM
 Tree Based -- Decision Tree, 
 Random Forest, Bagging and Boosting
 
-Unsupervised -- Clustering (KMeans, Density, ), Anomaly Detection, PCA
+Unsupervised -- Clustering (KMeans, Density, ), Anomaly Detection, PCA -> 3hrs
 
 
 
@@ -46,6 +46,31 @@ Support Vectors --> C (Regularization parameter) --> To avoid Overfitting
 Loss function --> 
 Epsilon Insensitive Tube 
 
+
+
+-------------------------
+Overview of Supervised Machine Learning
+-------------------------
+Supervised Machine Learning --> You know 'Y'
+
+Based on type of data of 'Y'
+If Y is continuous --> Regression Problem
+If Y is categorical --> Classification Problem
+
+
+1. Linear Regression 
+2. Polynomial Regression
+3. Regularization - L1(Lasso), L2(Ridge), Elastic
+4. Classification - KNN 
+5. SVM - SVC, SVR 
+6. Decision Tree Classifier and Decision Tree Regressor
+7. Random Forest Classifier and Random Forest Regressor
+
+
+Unsupervised ML
+Clustering - KMeans, Hierarchical, DBSCAN ->
+PCA
+Anomaly Detection 
 
 
 
